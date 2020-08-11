@@ -1,5 +1,5 @@
 ---
-title: 2020-8-11-关于Github Pages无法正常访问后的一堆破事
+title: 关于Github Pages无法正常访问后的一堆破事
 date: 2020-08-11
 tags: 随笔  
 ---
